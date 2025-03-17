@@ -1,0 +1,38 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage{booktabs}
+\usepackage{mathtools}
+\usepackage{mathtext}
+\usepackage{xfrac}
+\renewcommand{\arraystretch}{1.4}
+\usepackage{pdfpages}
+
+\usepackage{svg}
+\newcommand{\svg}[3][0.7] {
+  \begin{figure}[h]
+    \begin{center}
+      \fontsize{7}{8}\selectfont
+      \includesvg[scale=#1]{#2}
+      \caption{#3}
+    \end{center}
+  \end{figure}
+}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,russian]{babel}
+
+\begin{document}
+\input{tex/7}
+% \svg{svg/7.svg}{gay}
+\input{tex/9}
+\svg{svg/10.svg}{gay}
+
+\input{tex/14}
+\input{tex/22}
+\svg{svg/22.svg}{gay}
+\includepdf[pages=-]{data/1.pdf}
+\input{tex/28}
+\svg{svg/28.svg}{gay}
+\svg{svg/28_linear.svg}{gay}
+\end{document}
+~/hw/gphlab/3.6.1/

@@ -1,0 +1,39 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage{booktabs}
+\usepackage{mathtools}
+\usepackage{mathtext}
+\usepackage{xfrac}
+\renewcommand{\arraystretch}{1.4}
+\usepackage{pdfpages}
+
+\usepackage{svg}
+\newcommand{\svg}[3][0.7] {
+  \begin{figure}[h]
+    \begin{center}
+      \fontsize{7}{8}\selectfont
+      \includesvg[scale=#1]{#2}
+      \caption{#3}
+    \end{center}
+  \end{figure}
+}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,russian]{babel}
+
+\begin{document}
+\input{tex/result}
+% \input{tex/13A}
+% \input{tex/14A}
+% \input{tex/15A}
+% \input{tex/16A}
+% \svg{svg/13A.svg}{gay}
+% \svg{svg/14A.svg}{gay}
+% \svg{svg/15A.svg}{gay}
+% \svg{svg/16A.svg}{gay}
+% \svg{svg/13A_10V.svg}{gay}
+% \svg{svg/14A_10V.svg}{gay}
+% \svg{svg/15A_10V.svg}{gay}
+% \svg{svg/16A_10V.svg}{gay}
+% \svg{svg/all.svg}{gay}
+\end{document}

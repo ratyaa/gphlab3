@@ -1,0 +1,47 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage{booktabs}
+\usepackage{mathtools}
+\usepackage{mathtext}
+\usepackage{xfrac}
+\renewcommand{\arraystretch}{1.4}
+\usepackage{pdfpages}
+
+\usepackage{svg}
+\newcommand{\svg}[3][0.7] {
+  \begin{figure}[h]
+    \begin{center}
+      \fontsize{7}{8}\selectfont
+      \includesvg[scale=#1]{#2}
+      \caption{#3}
+    \end{center}
+  \end{figure}
+}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,russian]{babel}
+
+\begin{document}
+
+\svg{svg/6.svg}{gay}
+\svg{svg/6_sqrt.svg}{gay}
+\svg{svg/Cu_0.2A.svg}{gay}
+\svg{svg/Cu_0.4A.svg}{gay}
+\svg{svg/Cu_0.6A.svg}{gay}
+\svg{svg/Cu_0.81A.svg}{gay}
+\svg{svg/Cu_1.03A.svg}{gay}
+\svg{svg/Cu_1.16A.svg}{gay}
+\svg{svg/Cu_KI.svg}{gay}
+\svg{svg/Zn_1.00A.svg}{gay}
+\input{tex/6}
+\input{tex/Cu_0.2A.tex}
+\input{tex/Cu_0.4A.tex}
+\input{tex/Cu_0.6A.tex}
+\input{tex/Cu_0.81A.tex}
+\input{tex/Cu_1.03A.tex}
+\input{tex/Cu_1.16A.tex}
+\input{tex/Zn_1.00A.tex}
+\input{tex/Cu_KI.tex}
+\input{tex/final.tex}
+
+\end{document}

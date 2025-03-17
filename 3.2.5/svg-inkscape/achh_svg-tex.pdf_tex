@@ -1,0 +1,96 @@
+%% Creator: Inkscape 1.3 (0e150ed6c4, 2023-07-21), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'achh_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{450bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.8)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{achh_svg-tex.pdf}}%
+    \put(0.1069,0.0895){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{achh_svg-tex.pdf}}%
+    \put(0.1069,0.17375){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.4\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{achh_svg-tex.pdf}}%
+    \put(0.1069,0.258){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.5\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{achh_svg-tex.pdf}}%
+    \put(0.1069,0.34225){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.6\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{achh_svg-tex.pdf}}%
+    \put(0.1069,0.42648333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.7\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{achh_svg-tex.pdf}}%
+    \put(0.1069,0.51073333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.8\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{achh_svg-tex.pdf}}%
+    \put(0.1069,0.59498333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.9\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{achh_svg-tex.pdf}}%
+    \put(0.1069,0.67923333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{achh_svg-tex.pdf}}%
+    \put(0.1069,0.76348333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}1.1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{achh_svg-tex.pdf}}%
+    \put(0.12088333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.85\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{achh_svg-tex.pdf}}%
+    \put(0.24048333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.9\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{achh_svg-tex.pdf}}%
+    \put(0.36006667,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.95\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{achh_svg-tex.pdf}}%
+    \put(0.47966667,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{achh_svg-tex.pdf}}%
+    \put(0.59925,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1.05\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{achh_svg-tex.pdf}}%
+    \put(0.71885,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1.1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{achh_svg-tex.pdf}}%
+    \put(0.83843333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1.15\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{achh_svg-tex.pdf}}%
+    \put(0.95803333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1.2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{achh_svg-tex.pdf}}%
+    \put(0.03196667,0.43298333){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$U/U_0$\end{tabular}}}}}%
+    \put(0.53945,0.0145){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\nu/\nu_0$\end{tabular}}}}%
+    \put(0.84515,0.1195){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}Измерения $U/U_0(\nu/\nu_0)$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{achh_svg-tex.pdf}}%
+  \end{picture}%
+\endgroup%

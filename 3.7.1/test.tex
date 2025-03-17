@@ -1,0 +1,58 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage{booktabs}
+\usepackage{mathtools}
+\usepackage{mathtext}
+\usepackage{xfrac}
+\renewcommand{\arraystretch}{1.4}
+\usepackage{pdfpages}
+
+\usepackage{svg}
+\newcommand{\svg}[3][0.7] {
+  \begin{figure}[h]
+    \begin{center}
+      \fontsize{7}{8}\selectfont
+      \includesvg[scale=#1]{#2}
+      \caption{#3}
+    \end{center}
+  \end{figure}
+}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,russian]{babel}
+
+\begin{document}
+
+% \svg{svg/xi.svg}{gay}
+% \svg{svg/psi1.svg}{gay}
+\svg{svg/psi2.svg}{gay}
+% \svg{svg/lnu.svg}{gay}
+\svg{svg/lnu2.svg}{gay}
+% \input{tex/1} 
+% \input{tex/2}
+% \input{tex/3}
+% \input{tex/4}
+
+\begin{table}[!h]
+\begin{center}
+\begin{tabular}{lrrr}
+Метод измерения & $\sigma, 10^{7} См/м$ & $\Delta\sigma, 10^{7} См/м$ & $\varepsilon_{\sigma}$\\
+\hline
+Отношение амплитуд & 2.34 & 0.18 & 8\%\\
+Разности фаз (низкие частоты) & 3.3 & 0.4 & 11\%\\
+Разности фаз (высокие частоты) & 3.9 & 0.5 & 14\%\\
+Индуктивность & 3.01 & 0.20 & 6\%\\
+
+\end{tabular}
+\end{center}
+    \caption{Сравнение результатов различных методов}\label{}
+  \end{table}
+
+Предположительно, значения сильно различаются
+из за неприменимости формул для коэффициентов в нашем случае, в частности из за
+приближения о бесконечности цилиндра. Во всех экспериментах большой вклад в погрешность давала погрешность толщины цилиндра, а самым неточным оказался метод измерения через разность фаз при высоких частотах. Это
+связано не только с погрешностями измерения разности фаз, но так же с другими эффектами,
+которые наблюдаются на графике зависимости $L(\nu)$. Как видим, при частотах $\sim 5кГц$
+зависимость индуктивности не описывается теорией, следовательно, при этих частотах не должна работать и остальная теория.
+  
+\end{document}

@@ -1,0 +1,98 @@
+%% Creator: Inkscape 1.3 (0e150ed6c4, 2023-07-21), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'lnu2_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{450bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.8)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{lnu2_svg-tex.pdf}}%
+    \put(0.09291667,0.0895){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{lnu2_svg-tex.pdf}}%
+    \put(0.09291667,0.17375){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}5\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{lnu2_svg-tex.pdf}}%
+    \put(0.09291667,0.258){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}10\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{lnu2_svg-tex.pdf}}%
+    \put(0.09291667,0.34225){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}15\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{lnu2_svg-tex.pdf}}%
+    \put(0.09291667,0.4265){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}20\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{lnu2_svg-tex.pdf}}%
+    \put(0.09291667,0.51073333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}25\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{lnu2_svg-tex.pdf}}%
+    \put(0.09291667,0.59498333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}30\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{lnu2_svg-tex.pdf}}%
+    \put(0.09291667,0.67923333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}35\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{lnu2_svg-tex.pdf}}%
+    \put(0.09291667,0.76348333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}40\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{lnu2_svg-tex.pdf}}%
+    \put(0.1069,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{lnu2_svg-tex.pdf}}%
+    \put(0.22848333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{lnu2_svg-tex.pdf}}%
+    \put(0.35008333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{lnu2_svg-tex.pdf}}%
+    \put(0.47166667,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{lnu2_svg-tex.pdf}}%
+    \put(0.59326667,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.4\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{lnu2_svg-tex.pdf}}%
+    \put(0.71485,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.5\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{lnu2_svg-tex.pdf}}%
+    \put(0.83645,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.6\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{lnu2_svg-tex.pdf}}%
+    \put(0.95803333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.7\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{lnu2_svg-tex.pdf}}%
+    \put(0.03196667,0.43298333){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\frac{L_{max}-L_{min}}{L-L_{min}}$\end{tabular}}}}}%
+    \put(0.53246667,0.0145){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\nu^2$, Гц\end{tabular}}}}%
+    \put(0.84515,0.1495){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}Измерения $\frac{L_{max}-L_{min}}{L-L_{min}}(\nu^2)$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{lnu2_svg-tex.pdf}}%
+    \put(0.84515,0.1195){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}Аппроксимация по МНК\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{lnu2_svg-tex.pdf}}%
+  \end{picture}%
+\endgroup%

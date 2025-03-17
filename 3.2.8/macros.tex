@@ -1,0 +1,19 @@
+\newcommand{\svg}[3][0.7] {
+  \begin{figure}[h]
+    \begin{center}
+      \fontsize{7}{8}\selectfont
+      \includesvg[scale=#1]{\picdir #2}
+      \caption{#3}
+    \end{center}
+  \end{figure}
+}
+
+\newcommand{\png}[4][0.7] {
+  \begin{figure}[h]
+    \begin{center}
+      \fontsize{7}{8}\selectfont
+      \includegraphics[scale=#1]{\picdir #2}
+      \caption{#3}\label{fig:#4}
+    \end{center}
+  \end{figure}
+}
